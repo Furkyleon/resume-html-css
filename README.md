@@ -1,2 +1,4 @@
-# resume-html-css
-A resume project with HTML and CSS.
+# Resume Project
+It is a resume project by using HTML and CSS.
+
+Credit: https://roadmap.sh/projects/portfolio-website
